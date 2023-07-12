@@ -727,14 +727,21 @@
             "username": "admin",
             "password": "123",
             "avatar": "https://anekdo.net/pic/photo/221026-233029vwf.jpg",
-            "role": "ADMIN"
+            "role": ["ADMIN"]
         },
         {
             "id": "2",
             "username": "user",
             "password": "123",
             "avatar": "https://russian7.ru/wp-content/uploads/2022/03/khakery-piksabyey.jpg",
-            "role": "USER"
+            "role": ["USER"]
+        },
+        {
+            "id": "2",
+            "username": "manager",
+            "password": "123",
+            "avatar": "",
+            "role": ["MANAGER"]
         }
     ],
     "profile": [
